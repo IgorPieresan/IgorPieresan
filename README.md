@@ -20,8 +20,15 @@ Sou Técnico em Informática e atualmente estou cursando **Análise e Desenvolvi
 ---
 
 ## 📫 Como me encontrar  
-- 💬 **Contato:** https://www.linkedin.com/in/igor-pieresan/
-- 🌐 **Portfólio ou Projetos:** https://github.com/IgorPieresan
+
+<div>
+  <a href="https://www.instagram.com/igorfpieresan/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/igor-pieresan/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 ---
 
