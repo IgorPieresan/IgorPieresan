@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Igor!  
 
-Sou Técnico em Informática e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por tecnologia e busco constantemente aprender e evoluir como desenvolvedor.  
+Sou Técnico em Informática e atualmente estou cursando **Defesa Cibernética**. Tenho paixão por tecnologia e busco constantemente aprender e evoluir como desenvolvedor.  
 
 ---
 
 ## 🧑‍💻 Sobre mim  
-- 🎓 **Formação:** Técnico em Informática, com formação superior em andamento em Análise e Desenvolvimento de Sistemas  
-- 💼 **Trabalho atual:** Técnico em Informática  
+- 🎓 **Formação:** Técnico em Informática, com formação superior em andamento em Defesa Cibernética 
+- 💼 **Trabalho atual:** Analista de Suporte N3  
 - 🌱 **Atualmente aprendendo:** Dart, Flutter e SQL  
-- ⚡ **Interesses:** Desenvolvimento mobile, programação e soluções inovadoras  
+- ⚡ **Interesses:** Cibersecurity, Pentest e Programação
 
 ---
 
