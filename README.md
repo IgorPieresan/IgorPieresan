@@ -7,13 +7,13 @@ Sou Técnico em Informática e atualmente estou cursando **Defesa Cibernética**
 ## 🧑‍💻 Sobre mim  
 - 🎓 **Formação:** Técnico em Informática, com formação superior em andamento em Defesa Cibernética 
 - 💼 **Trabalho atual:** Analista de Suporte N3  
-- 🌱 **Atualmente aprendendo:** Dart, Flutter e SQL  
+- 🌱 **Atualmente aprendendo:** Pentest, Phyton, Linux  
 - ⚡ **Interesses:** Cibersecurity, Pentest e Programação
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas  
-- **Linguagens:** Dart, SQL  
+- **Linguagens:** Dart, SQL, Phyton  
 - **Ferramentas:** Flutter, Oracle SQL Developer  
 - **Versionamento:** Git, GitHub  
 
